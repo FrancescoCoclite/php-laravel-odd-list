@@ -104,7 +104,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\franc\Documents\boolean\mamp_public\laravel-api\resources\js\admin.js */"./resources/js/admin.js");
+module.exports = __webpack_require__(/*! C:\Users\franc\Documents\boolean\mamp_public\php-laravel-odd-list\resources\js\admin.js */"./resources/js/admin.js");
 
 
 /***/ })
